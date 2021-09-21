@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-image: url"(https://images4.alphacoders.com/104/thumb-1920-1041847.jpg)";
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.city {
+  color : white;
+}
